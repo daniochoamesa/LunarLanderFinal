@@ -50,8 +50,8 @@
 #instrucciones:hover {background-color: #00BFFF; font-size: 100%;}
 #botonAjustes:active {border-style: inset;}
 #botonAjustes:hover {background-color: #00BFFF; font-size: 100%;}
-#close:active {border-style: inset;}
-#close:hover {background-color: #00BFFF;}
+.close:active {border-style: inset;}
+.close:hover {background-color: #00BFFF;}
 
 #reanudar {
 	border-style: outset;
@@ -187,7 +187,7 @@
 	background-color: #00BFFF;
 	border-style: outset;
 }
-#close {
+.close {
 	background-color:#00BFFF;
 	border-style: solid;
 	border-color: #00BFFF;
